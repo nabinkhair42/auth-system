@@ -43,7 +43,7 @@ This project demonstrates a complete authorization system built using the MERN s
 1. **Clone the repository:**
     ```sh
     git clone https://github.com/nabinkhair42/auth-system.git
-    cd authorization-system
+    cd auth-system
 
     ```
 
